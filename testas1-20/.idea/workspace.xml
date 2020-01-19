@@ -12,28 +12,421 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="996c9f58-1275-4d20-a944-c399ef6f7b10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../nd513/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd513/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd513/mainwindow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd513/mainwindow.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd513/mainwindow.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd513/nd513.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd_513/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd_513/nd_513.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd_513/nd_513.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd_513/nd_513.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nd_513/nd_513_global.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testas1-11/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ND5-13/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../ND5-13/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ND5-13/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ND5-13/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ND5-13/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ND5-13/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../ND5-13/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas082var/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testas082var/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas12-21/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testas12-21/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas12-21/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../testas12-21/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas1214/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testas1214/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testas1214/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../testas1214/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/testas1_20.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/testas1_20" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/testas1_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/testas1_20.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/testas1_20.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/ND4-10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/dictionaries/home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/ND4_10.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/ND4_10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/ND4_10.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND4-10/source.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/.idea/ND5-13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/ND5_13.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/ND5_13.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ND5-13/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/.idea/Tourney_kortos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/Tourney_kortos.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/Tourney_kortos.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/Tourney_kortos/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/.idea/ascii.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/ascii.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/ascii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/ascii.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/ascii/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd513/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd513/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd513/mainwindow.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd513/mainwindow.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd513/mainwindow.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd513/nd513.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd_513/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd_513/nd_513.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd_513/nd_513.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd_513/nd_513.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/nd_513/nd_513_global.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/.idea/crossword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/crossword.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/crossword" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/cmake-build-debug/crossword.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/crossword/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/.idea/tvora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/CMakeFiles/tvora.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/tvora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/cmake-build-debug/tvora.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/olimpiada/tvora/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/.idea/testas-6-2var-2m.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/testas_6_2var_2m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/cmake-build-debug/testas_6_2var_2m.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/inputX.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas-6-2var-2m/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/.idea/testas082var.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/Rezultatai.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/CMakeFiles/testas082var.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/testas082var" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/cmake-build-debug/testas082var.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas082var/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas1-11/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/.idea/dictionaries/home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/.idea/testas11_17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/CMakeFiles/testas11_17.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/testas11_17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/cmake-build-debug/testas11_17.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas11_17/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/.idea/testas12-21.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas12-21/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas1214/.idea/testas1214.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas1214/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/testas1214/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cplusplus/verylargenumbers/.idea/verylargenumbers.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Minimalism-quoter" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minimalism-quoter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../instaFollowers/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../instaFollowers/run.json" beforeDir="false" />
@@ -57,7 +450,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1WbTuzHTaLeRY2YEGeQUaDWsJst" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -66,6 +459,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,6 +491,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579417520662</updated>
       <workItem from="1579417522787" duration="3914000" />
+      <workItem from="1579425189945" duration="2310000" />
     </task>
     <servers />
   </component>
@@ -108,7 +503,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
