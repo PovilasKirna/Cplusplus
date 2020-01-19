@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Povilas/Documents/GitHub/Cplusplus/testas-6-2var-2m/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+climits
+-
+

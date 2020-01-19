@@ -1,0 +1,10 @@
+Mokinio nr.	Ivertinimai
+      Nr. 1	10 8 9 10 10 7 
+      Nr. 2	10 4 5 9 10 8 
+      Nr. 3	9 7 7 7 10 10 
+      Nr. 4	6 9 9 10 7 9 
+      Nr. 5	3 10 10 4 8 7 
+
+Daugiausiai desimtuku turi mokinys nr. 1
+
+Neigiamu pazymiu neturi 4

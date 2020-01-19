@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Povilas/Documents/GitHub/Cplusplus/ND4-10/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+cmath
+-
+string
+-
+iomanip
+-
+

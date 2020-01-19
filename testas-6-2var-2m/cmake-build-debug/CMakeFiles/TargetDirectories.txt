@@ -1,0 +1,3 @@
+/Users/Povilas/Documents/GitHub/Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Povilas/Documents/GitHub/Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Povilas/Documents/GitHub/Cplusplus/testas-6-2var-2m/cmake-build-debug/CMakeFiles/testas_6_2var_2m.dir

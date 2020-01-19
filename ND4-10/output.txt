@@ -1,0 +1,17 @@
+Duomenys:
+
+5
+3 4 2 1 5 6
+6 0 1 6 8 5
+2 1 7 1 4.5 5.33
+11 2 5 7 9 6
+0 0 9 4 3 2
+
+Rezultatai:
+
+Didziausio lygiasonio trikampio plotas:
+13.9
+Atstumai nuo jo virsuniu iki kordinaciu pradzios:
+a = 6.98
+b = 7.07
+c = 2.24

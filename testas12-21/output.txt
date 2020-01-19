@@ -1,0 +1,7 @@
+10
+10
+12
+15
+9
+7
+Daugiausiai skyrikliu yra 4-oje eiluteje.

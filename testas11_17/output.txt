@@ -1,0 +1,2 @@
+Masyvas pries salinima: -3 0 1 1 5 5 7 9 11 11 
+Masyvas po salinimo: -3 0 1 5 7 9 11 
