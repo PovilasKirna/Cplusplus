@@ -1,0 +1,3 @@
+/Users/Povilas/Documents/GitHub/Cpluplus/electricity_bills_structs /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Povilas/Documents/GitHub/Cpluplus/electricity_bills_structs /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Povilas/Documents/GitHub/Cpluplus/electricity_bills_structs /cmake-build-debug/CMakeFiles/electricity_bills_structs_.dir

@@ -1,0 +1,12 @@
+Duomenys:
+1 Jonaitis 450 467 432 404 351 308 
+2 Jurgaityte 500 497 476 407 387 346 
+3 Zorasaite 310 307 321 257 237 201 
+4 Gargaitis 0 0 0 345 421 403 
+
+Rezultatai:
+Visas daugiabutis per puse metu sunaudojo uz: 919.38 eur.
+Butas: 1 Savininkas: Jonaitis Suvartojo per puse metu uz: 274.68 eur.
+Butas: 2 Savininkas: Jurgaityte Suvartojo per puse metu uz: 295.82 eur.
+Butas: 3 Savininkas: Zorasaite Suvartojo per puse metu uz: 185.22 eur.
+Butas: 4 Savininkas: Gargaitis Suvartojo per puse metu uz: 163.66 eur.
